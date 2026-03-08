@@ -48,3 +48,65 @@
 > I hold a dual diploma — an engineering degree in computer science *(ENAC)* and a Master's in Economics *(TSE)* — giving me a unique ability to connect technical systems, quantitative analysis, and business strategy.
 
 ---
+
+## 🎓 Education
+
+| Degree | Institution | Year |
+|---|---|---|
+| 🏛️ **Engineering Degree** — Information Systems for Air Transport | ENAC, Toulouse | 2021 – 2024 |
+| 📊 **Master's** — Economics of Markets & Organizations | Toulouse School of Economics, Toulouse | 2023 – 2024 |
+| ➕ **Preparatory Classes** — Sciences & Mathematics | IPEST, Tunis | 2019 – 2021 |
+
+
+
+
+
+## 🛠️ Skills
+
+### Procurement & Strategy
+`Strategic Sourcing` · `RFP Management` · `Contract Negotiation` · `Supplier Analysis` · `Cost Forecasting` · `Spend Analytics`
+
+### Programming
+| Level | Languages |
+|---|---|
+| **Expert** | Python · SQL · Java |
+| **Intermediate** | JavaScript · HTML · CSS · R · C · OCaml |
+
+### Tools & Platforms
+`SAP` · `Excel (Advanced)` · `Google Workspace` · `Stata` · `R` · `eViews` · `Google Apps Script`
+
+### Methods
+`Agile / Scrum` · `Waterfall` · `Econometric Modelling` · `Data Visualisation`
+
+---
+
+## 📜 Certifications
+
+- 🏅 CFI — Corporate Finance Foundations Professional Certificate
+- 🏅 Microsoft & LinkedIn — Career Essentials in Business Analysis
+
+---
+
+## 🔬 Projects
+
+**📈 Crime Evolution in the US** *(Feb – Apr 2023)*
+Modelled crime rate trends across US states using panel data econometrics — eViews & Stata.
+
+**✈️ AEROVISION — Augmented Reality Flight App** *(Feb – May 2023)*
+Real-time AR visualisation of live flight and airport data using Java & Google ARCore, built with Agile methodology.
+
+**✈️ ANALYSE AEROPORTUAIRE | PYTHON, Agile methods** *(Mar - May 2023)*
+Identification of the impact of each country’s health restrictions on air transportation using Python and Agile methodology.
+
+**✈️ BlaBla Avion | HTML, CSS** *(Sept - Dec 2022)*
+Development of a platform similar to BlaBlaCar, but dedicated to exchanges between private pilots and passengers.
+
+---
+
+## 🌐 Languages
+
+`French — Bilingual` · `Arabic — Bilingual` · `English — Fluent`
+
+---
+
+*Last updated · 2026*
